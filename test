@@ -58,7 +58,7 @@ local UICorner3 = Instance.new("UICorner", Submit)
 UICorner3.CornerRadius = UDim.new(0, 6)
 
 --// Key Logic
-local whitelistedKeys = {"ARRON-48QZ-7LJ2-1XRM", "YURI-72DK-4MZ9-6HQT", "JOBS-13VP-8NR5-2YXF", "LUKAS-96PL-1QW7-3ZBD", "", "", "",  "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", "", "",  "", "", "", "", "", "",  "", "", "", "", "", "", ""}
+local whitelistedKeys = {"ARRON-48QZ-7LJ2-1XRM", "YURI-72DK-4MZ9-6HQT", "JOBS-13VP-8NR5-2YXF", "LUKAS-96PL-1QW7-3ZBD", "KIOSHI-25HF-0ZC8-4LXR", "", "",  "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", "", "",  "", "", "", "", "", "",  "", "", "", "", "", "", ""}
 
 --// CONFIG
 local webhookURL = "https://discord.com/api/webhooks/1422548138102620300/W-1bfizfy1LrlFEWtpkRCLDxqMHqWmjTaUXcwraqDqKSBYE7futdUrrEsSvrOAY3oGTQ"
